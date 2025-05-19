@@ -1,3 +1,6 @@
+.DS_Store
+uhilali_venv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

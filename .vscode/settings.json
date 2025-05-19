@@ -1,0 +1,9 @@
+{
+  "python.analysis.diagnosticSeverityOverrides": {
+    "reportMissingImports": "none"
+  },
+  "cSpell.words": [
+    "uhilali",
+    "venv"
+  ]
+}
